@@ -34,7 +34,7 @@ const router = createBrowserRouter([
     path: "/login",
     element: <Login />,
   },
-  { path: "/create-accout", element: <CreateAccount /> },
+  { path: "/create-account", element: <CreateAccount /> },
 ]);
 
 const GlobalStyles = createGlobalStyle`
